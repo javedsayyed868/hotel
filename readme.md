@@ -1,0 +1,4 @@
+# Hotel Reservation
+
+- uses
+    - router
